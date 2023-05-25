@@ -11,14 +11,18 @@ This project is to learn bootstrap 4 with WordPress.
 This project needs to install node_modules with:
 
 ```bash
-    npm install
+npm install
 ```
 
 And this project have a Gulp, and framework to run any tasks like automatic. You need to run:
 
 ```bash
-    npx gulp
+npx gulp
 ```
+
+To follow the progress, access the file on your browser: 
+
+> _`./src/index.js `_
 
 ## References
 
